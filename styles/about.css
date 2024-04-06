@@ -8,6 +8,9 @@ body{
     display: flex;
     justify-content: space-between;
 }
+.div2{
+    width: 600px;
+}
 .div3{
     width: 400px;
     height: 100px;
