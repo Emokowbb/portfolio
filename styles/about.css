@@ -22,30 +22,18 @@ body{
     border-radius: 100%;
 }
 .skills{
-    border: 1px solid black;
-    width: 70px;
-    border-radius: 7%;
     color: wheat;
     padding: 5px;
 }
 .about{
-    border: 1px solid black;
-    width: 70px;
-    border-radius: 7%;
     color: wheat;
     padding: 5px;
 }
 .courses{
-    border: 1px solid black;
-    width:230px;
-    border-radius: 4%;
     color: wheat;
     padding: 5px;
 }
 .education{
-    border: 1px solid black;
-    width:110px;
-    border-radius: 5%;
     color: wheat;
     padding: 5px;
 }
