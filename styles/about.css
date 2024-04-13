@@ -21,3 +21,33 @@ body{
     height: 100%;
     border-radius: 100%;
 }
+.skills{
+    border: 1px solid black;
+    width: 60px;
+    border-radius: 10%;
+    color: wheat;
+}
+.about{
+    border: 1px solid black;
+    width: 70px;
+    border-radius: 10%;
+    color: wheat;
+}
+.courses{
+    border: 1px solid black;
+    width:230px;
+    border-radius: 7%;
+    color: wheat;
+}
+.education{
+    border: 1px solid black;
+    width:110px;
+    border-radius: 7%;
+    color: wheat;
+}
+li{
+    list-style-type: '🚀';
+}
+.link1{
+    background-color: yellow;
+}
