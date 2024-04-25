@@ -43,3 +43,15 @@ li{
 .link1{
     background-color: yellow;
 }
+a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    
+}
+button{
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
